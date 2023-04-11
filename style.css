@@ -1,0 +1,265 @@
+* {
+    font-family: 'inter';
+}
+
+.nav-logo {
+    display: flex;
+    margin-left: 50px;
+}
+
+#logo {
+    height: 100%;
+    width: auto;
+}
+
+#logotext {
+    margin-top: 16px;
+    display: flex;
+    font-size: 17px;
+    margin-left: 5%;
+    text-transform: capitalize;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid;
+}
+
+nav ul li {
+    display: inline;
+    text-align: center;
+}
+
+nav ul li:hover {
+    border: 1px solid #1070FF;
+}
+
+.nav-links {
+    font-weight: 500;
+    margin-left: 300px;
+}
+
+.list {
+    margin: 30px;
+}
+
+.buttons {
+    margin-top: 10px;
+    display: flex;
+    height: 30px;
+    margin-left: 340px;
+
+}
+
+#login-button {
+    border: none;
+    background-color: transparent;
+    width: 90px;
+    font-weight: 700;
+
+}
+
+#signup-button {
+    color: white;
+    background-color: #1070FF;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+    width: 80px;
+    margin-left: 1%;
+    font-weight: 700;
+
+
+}
+
+.webinars {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: auto;
+}
+
+#para-1 {
+    margin-top: 0%;
+    padding-top: 0%;
+    text-align: justify;
+    margin-left: 350px;
+}
+
+#image-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    z-index: 1;
+}
+
+#star {
+    padding-top: 0%;
+    margin-top: 0%;
+    position: absolute;
+    z-index: 1;
+    margin-left: 79%;
+
+
+}
+
+.strengthening {
+    display: flex;
+    margin-left: 7%;
+
+}
+
+.nov-27 {
+    margin-top: 10px;
+    margin-left: 17%;
+    font-size: 14px;
+}
+
+#get-ticket {
+    background-color: #1070FF;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    width: 20%;
+    font-size: 17px;
+}
+
+.Speaker-sec {
+    display: flex;
+    border-bottom: 1px solid;
+    margin-left: 5%;
+    margin-right: 7%;
+
+}
+
+.all-sec {
+    display: flex;
+    border-bottom: 1px solid;
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+.view {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 940px;
+}
+
+.view2 {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 930px;
+}
+
+.Therapist {
+    margin-left: 4.5%;
+}
+
+#Therapist {
+    margin-bottom: 150%;
+}
+
+.section-4 {
+    display: flex;
+    margin-top: 3%;
+}
+
+.image-sec-1 {
+    margin-left: 6%;
+}
+
+.image-sec-2 {
+    margin-left: 3%;
+}
+
+.image-line {
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+.image-line3 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#navicon {
+    margin-left: 65%;
+    width: 150px;
+    margin-top: 20px;
+}
+
+.news {
+    margin-top: 30px;
+    padding: 90px;
+    background-image: url(/image/Frame\ 1000001084.png);
+    text-align: center;
+}
+
+#Textfield {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    width: 300px;
+    height: 30px;
+    text-align: left;
+}
+
+#Subscribe {
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 10px;
+    border: none;
+    background-color: #1070FF;
+    color: white;
+    height: 70px;
+    width: 200px;
+
+}
+
+.ending {
+    background-color: #1070FF;
+    color: white;
+    padding: 20px;
+}
+
+.buttom-logo {
+    display: flex;
+}
+
+#logo2 {
+    margin-left: 100px;
+    padding: 10px;
+}
+
+#logotext2 {
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+
+}
+
+.empty {
+
+    padding: 5px;
+}
+
+.blocks {
+    display: flex;
+    margin-left: 110px;
+    justify-content: space-between;
+    margin-right: 180px;
+
+}
+
