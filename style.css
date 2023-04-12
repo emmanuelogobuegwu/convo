@@ -158,6 +158,9 @@ h1 {
 #Therapist {
     margin-bottom: 150%;
 }
+.frame32{
+    display: flex;
+}
 
 .section-4 {
     display: flex;
@@ -256,7 +259,7 @@ h1 {
     margin-right: 180px;
 
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 480px) {
     .nav-logo {
         display: flex;
         margin-left: 10px;
@@ -529,4 +532,282 @@ margin-bottom: auto;
     }
     
 }
+@media screen and (min-width: 481px) and (max-width: 820px) {
 
+    .nav-logo {
+        display: flex;
+        margin-left: 50px;
+    }
+    
+    #logo {
+        height: 50%;
+        
+    }
+    
+    #logotext {
+        margin-top: 10px;
+        display: flex;
+        font-size: 10px;
+        text-transform: capitalize;
+    }
+    
+    .navbar {
+        margin-left: 20px;
+        margin-right: 20px;
+        flex-direction: row;
+        border-bottom: 1px solid;
+    }
+    
+    nav ul li {
+        display: inline;
+        text-align: center;
+    }
+    
+    nav ul li:hover {
+        border: 1px solid #1070FF;
+    }
+    
+    .nav-links {
+        font-weight: 400;
+        margin-left: 10px;
+    }
+    
+    .list {
+        margin: 10px;
+    }
+    
+    .buttons {
+        margin-top: 10px;
+        display: flex;
+        height: 30px;
+        margin-left: 40px;
+    
+    }
+    
+    #login-button {
+        border: none;
+        background-color: transparent;
+        width: 90px;
+        font-weight: 700;
+    
+    }
+    
+    #signup-button {
+        color: white;
+        background-color: #1070FF;
+        border: none;
+        padding: 5px;
+        border-radius: 2px;
+        width: 80px;
+        margin-left: 1%;
+        font-weight: 700;
+    
+    
+    }
+    
+    .webinars {
+        margin-top: 50px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    h1 {
+        font-size: 30px;
+        margin-bottom: auto;
+    }
+    
+    #para-1 {
+        margin-top: 0%;
+        padding-top: 0%;
+        margin-bottom: 40px;
+        text-align: justify;
+        margin-left: 60px;
+       
+    }
+    
+    #image-1 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 700px;
+       
+    
+    }
+    
+    .strengthening {
+        margin-top: auto;
+        display: flex;
+        margin-left: 7%;
+    
+    }
+    
+    .nov-27 {
+        margin-top: 18px;
+        margin-left: 8%;
+        font-size: 10px;
+    }
+    
+    #get-ticket {
+        background-color: #1070FF;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        width: 20%;
+        font-size: 14px;
+    }
+    
+    .Speaker-sec {
+        display: flex;
+        border-bottom: 1px solid;
+        margin-left: 5%;
+        margin-right: 7%;
+    
+    }
+    
+    .all-sec {
+        display: flex;
+        border-bottom: 1px solid;
+        margin-left: 5%;
+        margin-right: 7%;
+    }
+    
+    .view {
+        margin-top: 20px;
+        display: flex;
+        margin-left: 60%;
+    }
+    
+    .view2 {
+        margin-top: 20px;
+        display: flex;
+        margin-left: 60%;
+    }
+    
+    .Therapist {
+        margin-left: 4.5%;
+    }
+    
+    #Therapist {
+        margin-bottom: 50%;
+        font-size: 15px;
+    }
+    #frame-616{
+        width: 50px;
+    }
+    
+    .section-4 {
+        display: flex;
+        margin-top: 3%;
+    }
+    
+    .image-sec-1 {
+        margin-left: 6%;
+    }
+    .frame32{
+        display: flex;
+        width: 60%;
+    }
+    #frame327{
+        width: 88%;
+        
+    }
+    #frame328{
+        width: 87%;
+    }
+    
+    .image-sec-2 {
+        margin-left: 3%;
+    }
+    
+    .image-line {
+       display: flex;
+       justify-content: space-evenly;
+    
+    }
+    
+    .image-line3 {
+      margin-left: 4px;
+        
+       
+    
+    }
+    #frame3{
+        width: 100%;
+        
+    }
+    
+    #navicon {
+        margin-left: 65%;
+        width: 50px;
+        margin-top: 20px;
+    }
+    
+    .news {
+        margin-top: 30px;
+        padding: 90px;
+        background-image: url(/image/Frame\ 1000001084.png);
+        text-align: center;
+    }
+    
+    #Textfield {
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 10px;
+        border: none;
+        width: 200px;
+        height: 30px;
+        text-align: left;
+    }
+    
+    #Subscribe {
+        padding: 10px;
+        font-size: 20px;
+        border-radius: 10px;
+        border: none;
+        background-color: #1070FF;
+        color: white;
+        height: 60px;
+        width: 160px;
+    
+    }
+    
+    .ending {
+        background-color: #1070FF;
+        color: white;
+        padding: 10px;
+        padding-bottom: 40px;
+    }
+    
+    .buttom-logo {
+        display: flex;
+    }
+    
+    #logo2 {
+        margin-left: 40px;
+        padding: 10px;
+    }
+    
+    #logotext2 {
+        font-size: 20px;
+        margin-top: 20px;
+        color: white;
+    
+    }
+    
+    .empty {
+    
+        padding: 2px;
+    }
+    
+    .blocks {
+        display: flex;
+        margin-left: 50px;
+        justify-content: space-between;
+        margin-right: 60px;
+    
+    }
+    p{
+        font-size: 15px;
+    }
+}
